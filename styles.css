@@ -1,0 +1,121 @@
+* { 
+    background-color: white;
+}
+
+body { 
+    height: 500px;
+    width: 1500px;
+    background-image: linear-gradient(120deg, #f8d2ec 0%, #f58ade 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.name { 
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(236, 232, 232);
+    background-color: transparent;
+    font-size: 90px;
+    letter-spacing: 20px;
+    margin: 10px;
+    text-shadow: -2px 2px 2px rgb(231, 74, 184); 
+}
+
+.description { 
+    color: rgb(236, 232, 232);
+    background-color: transparent;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 20px;
+}
+
+#langlogos { 
+    position: absolute;
+    top: 355px; 
+    left: 688px;
+    height: 46.9px;
+    width: 123.75px;
+    background-color: transparent;
+    color: white;
+
+}
+
+#bubble1 { 
+    position: absolute;
+    top: 420px;
+    right: 160px;
+    background: radial-gradient(circle at 50% 55%, rgba(240, 255, 250, 0.9) 40%, rgba(225, 255, 230, 0.8) 60%, rgba(43, 255, 89, 0.4));
+    border-radius: 100px;
+    height: 60px;
+    width: 60px;
+}
+
+#bubble2 { 
+    position: absolute;
+    top: 120px;
+    right: 120px;
+    background: radial-gradient(circle at 50% 55%, rgba(255, 240, 252, 0.9) 40%, rgba(254, 225, 255, 0.8) 60%, rgba(248, 43, 255, 0.4));
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+}
+
+#bubble3 { 
+    position: absolute;
+    right: 200px; 
+    top: -80px;
+    background: radial-gradient(circle at 50% 55%, rgba(240, 255, 255, 0.9) 40%, rgba(225, 254, 255, 0.8) 60%, rgba(43, 241, 255, 0.4));
+    border-radius: 100%;
+    height: 190px;
+    width: 190px;
+}
+
+#bubble4 { 
+    position: absolute;
+    top: 330px; 
+    right: 65px;
+    background: radial-gradient(circle at 50% 55%, rgba(255, 242, 240, 0.9) 40%, rgba(255, 226, 225, 0.8) 60%, rgba(255, 93, 43, 0.4));
+    border-radius: 100px;
+    height: 75px;
+    width: 75px;
+}
+
+#bubble5 { 
+    position: absolute;
+    top: 330px; 
+    right: 290px;
+    background: radial-gradient(circle at 50% 55%, rgba(253, 240, 255, 0.9) 40%, rgba(249, 225, 255, 0.8) 60%, rgba(188, 43, 255, 0.4));
+    border-radius: 100px;
+    height: 130px;
+    width: 130px;
+}
+
+#bubble6 { 
+    position: absolute;
+    top: 70px; 
+    right: 350px;
+    background: radial-gradient(circle at 50% 55%, rgba(255, 249, 240, 0.9) 40%, rgba(255, 245, 225, 0.8) 60%, rgba(255, 170, 43, 0.4));
+    border-radius: 100%;
+    height: 160px;
+    width: 160px;
+}
+
+#bubble7 { 
+    position: absolute;
+    top: 330px; 
+    right: 190px;
+    background: radial-gradient(circle at 50% 55%, rgba(255, 240, 240, 0.9) 40%, rgba(255, 225, 227, 0.8) 60%, rgba(255, 43, 43, 0.4));
+    border-radius: 100px;
+    height: 85px;
+    width: 85px;
+}
+
+#bubble8 { 
+    position: absolute;
+    top: 450px; 
+    right: 90px;
+    background: radial-gradient(circle at 50% 55%, rgba(254, 255, 240, 0.9) 40%, rgba(254, 255, 225, 0.8) 60%, rgba(255, 241, 43, 0.4));
+    border-radius: 100px;
+    height: 45px;
+    width: 45px;
+}
