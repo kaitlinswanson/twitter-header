@@ -16,9 +16,9 @@ body {
     font-family: 'Bebas Neue', cursive;
     color: rgb(236, 232, 232);
     background-color: transparent;
-    font-size: 90px;
-    letter-spacing: 20px;
-    margin: 10px;
+    font-size: 110px;
+    letter-spacing: 25px;
+    margin: 5px;
     text-shadow: -2px 2px 2px rgb(231, 74, 184); 
 }
 
@@ -26,15 +26,16 @@ body {
     color: rgb(236, 232, 232);
     background-color: transparent;
     font-family: 'IBM Plex Mono', monospace;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 #langlogos { 
     position: absolute;
+    padding-top: 20px;
     top: 355px; 
-    left: 688px;
-    height: 46.9px;
-    width: 123.75px;
+    left: 657px;
+    height: 70.35px;
+    width: 185.62px;
     background-color: transparent;
     color: white;
 
